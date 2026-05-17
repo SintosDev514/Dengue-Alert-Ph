@@ -1,0 +1,77 @@
+{
+    "fetched_at": 1778144985,
+    "source": "DOH-Epidemiology Bureau via HDX (2020\u20132021)",
+    "source_url": "https:\/\/data.humdata.org\/dataset\/philippine-dengue-cases-and-deaths",
+    "total_cases": 93128,
+    "total_deaths": 1203,
+    "regions": {
+        "Region III \u2013 Central Luzon": {
+            "cases": 17085,
+            "deaths": 60
+        },
+        "Region VII \u2013 Central Visayas": {
+            "cases": 12449,
+            "deaths": 54
+        },
+        "Region IV-A \u2013 CALABARZON": {
+            "cases": 9869,
+            "deaths": 36
+        },
+        "Region I \u2013 Ilocos Region": {
+            "cases": 7417,
+            "deaths": 18
+        },
+        "NCR (Metro Manila)": {
+            "cases": 7364,
+            "deaths": 484
+        },
+        "Region X \u2013 Northern Mindanao": {
+            "cases": 6316,
+            "deaths": 35
+        },
+        "Region IV-B \u2013 MIMAROPA": {
+            "cases": 5115,
+            "deaths": 24
+        },
+        "CAR \u2013 Cordillera": {
+            "cases": 5002,
+            "deaths": 132
+        },
+        "Region VIII \u2013 Eastern Visayas": {
+            "cases": 4839,
+            "deaths": 12
+        },
+        "Region XII \u2013 SOCCSKSARGEN": {
+            "cases": 4421,
+            "deaths": 250
+        },
+        "Region VI \u2013 Western Visayas": {
+            "cases": 4171,
+            "deaths": 16
+        },
+        "Region IX \u2013 Zamboanga Peninsula": {
+            "cases": 2697,
+            "deaths": 16
+        },
+        "Region XI \u2013 Davao Region": {
+            "cases": 1978,
+            "deaths": 13
+        },
+        "Region V \u2013 Bicol Region": {
+            "cases": 1749,
+            "deaths": 21
+        },
+        "Region II \u2013 Cagayan Valley": {
+            "cases": 1645,
+            "deaths": 9
+        },
+        "BARMM": {
+            "cases": 1011,
+            "deaths": 23
+        },
+        "#region": {
+            "cases": 0,
+            "deaths": 0
+        }
+    }
+}
